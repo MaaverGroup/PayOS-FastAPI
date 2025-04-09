@@ -166,4 +166,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Credits
 
-Built and maintained with ❤️ by [Maaver Group 🇻🇳](https://github.com/MaaverGroup)
+Built and maintained with ❤️ by [Maaver Group 🇻🇳](https://maaver.com)
